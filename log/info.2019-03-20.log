@@ -1,0 +1,6 @@
+Starting LoggerTest on DESKTOP-BT060JG with PID 12468 (started by liuwj in E:\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 1.546 seconds (JVM running for 2.143)
+info...
+Shutting down ExecutorService 'applicationTaskExecutor'
